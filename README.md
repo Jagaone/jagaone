@@ -16,11 +16,6 @@
 
 ## 📚 Table of Contents
 
-    - [Python](#python)
-    - [SQL](#sql)
-    - [Tableau](#tableau)
-## 📚 Table of Contents
-
 - [Python](#python)
 - [SQL](#sql)
 - [Tableau](#tableau)
