@@ -14,10 +14,10 @@
    - 📫 Reach me: tg.me/bonoviagio 
    - ⚡️ Facts: Fan of Formula1 / Football / Movies / Jazz
 
-## 📚 Table of Contents
+## 📚 Link to [Portfolio Guide](https://www.github.com/jagaone/portfolio)
 
-- [Python](#python)
-- [SQL](#sql)
-- [Tableau](#tableau)
+- [Python](https://www.github.com/jagaone/portfolio#python)
+- [SQL](https://www.github.com/jagaone/portfolio#sql)
+- [Tableau](https://www.github.com/jagaone/portfolio#tableau)
 
 _Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
