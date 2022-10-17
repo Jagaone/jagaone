@@ -12,7 +12,7 @@
    - 🌱 Learning all about Data Scince / Product Management / Growth Management
    - 💬 Ping me about analytics, branding, data science, product management, marketing
    - 📫 Reach me: tg.me/bonoviagio 
-   - ⚡️ Fact: Fan of Formula1 / Football / Movies / Jazz
+   - ⚡️ Facts: Fan of Formula1 / Football / Movies / Jazz
 
 ## 📚 Table of Contents
 
