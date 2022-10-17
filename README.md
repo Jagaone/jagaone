@@ -16,8 +16,8 @@
 
 ## 📚 Link to [Portfolio Guide](https://www.github.com/jagaone/portfolio)
 
-- [Python](https://www.github.com/jagaone/portfolio#python)
-- [SQL](https://www.github.com/jagaone/portfolio#sql)
-- [Tableau](https://www.github.com/jagaone/portfolio#tableau)
+   - [Python](https://www.github.com/jagaone/portfolio#python)
+   - [SQL](https://www.github.com/jagaone/portfolio#sql)
+   - [Tableau](https://www.github.com/jagaone/portfolio#tableau)
 
 _Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
