@@ -9,11 +9,10 @@
    - 🏢 I'm currently working at MTS
    - ⚙️ I use daily: SQL, Python(Pandas,NumPy,Seaborn,Matplotlib)
    - 🌍 I'm mostly active within the Data Science
-   - 💅 Designed: @pestphp, NorthMeetsSouth.audio, ThenPing.me, HappydDev.fm, etc…
    - 🌱 Learning all about Data Scince / Product Management / Growth Management
    - 💬 Ping me about analytics, branding, data science, product management, marketing
    - 📫 Reach me: tg.me/bonoviagio 
-   - ⚡️ Fun fact: Fan of Formula1 / Football / Movies / Jazz
+   - ⚡️ Fact: Fan of Formula1 / Football / Movies / Jazz
 
 ## 📚 Table of Contents
 
