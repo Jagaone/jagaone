@@ -1,7 +1,7 @@
 
 ## Hi There! 🕵️‍♂️
 
-   - ✨ I'm a Product Analyst Intern working at MTS 
+   - ✨ I'm a Product Analyst working at Zypl.ai 
    - 🍑Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in//) about my projects!
 
 ## BIO
